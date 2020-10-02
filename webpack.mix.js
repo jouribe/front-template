@@ -6,7 +6,6 @@ mix
     .postCss('src/css/app.css', 'dist/css', [
         require('postcss-import')
     ])
-    .version()
     .options({
         processCssUrls: false
     })
