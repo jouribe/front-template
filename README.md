@@ -1,2 +1,2 @@
-# front-template
+# Front Template
 Template to front projects
